@@ -1,0 +1,6 @@
+install.packages("ElemStatLearn")
+help(package="ElemStatLearn")
+library( package = ElemStatLearn )
+str(SAheart)
+summary(SAheart)
+data(SAheart)
